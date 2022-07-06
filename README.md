@@ -47,8 +47,6 @@ npm start
 Link to [localhost](http://localhost:3000/)
 
 ## Authors
-
-👤 **Pedro Guerreiro**
 Edward Yara  
 - GitHub: [@oluyaratosin123](https://github.com/oluyaratosin123)
 - Twitter: [@TOluyara](https://twitter.com/TOluyara)
