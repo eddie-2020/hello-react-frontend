@@ -16,7 +16,7 @@ This project is made as part of Microverse program.
 
 ## Link to Hello Rails-back-end
 
-You can view the front-end repository [here]()
+You can view the back-end repository [here]()
 
 ## Getting Started
 
