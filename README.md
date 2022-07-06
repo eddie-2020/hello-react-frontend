@@ -6,6 +6,15 @@
 
 This project is made as part of Microverse program.
 
+## Project Requirements
+
+- Create a new React app called 'hello-react-front-end'
+- Initialize your project with Git.
+- Create the `App` component with react-router.
+- Create the `Greeting` component that will display a greeting. Set it up as a route in your App component.
+- Create a store, an action and a reducer that will connect to you API endpont to get the random greeting.
+- Display the random greeting in your `Greeting` component.
+
 ## Built With
 
 - RUBY
