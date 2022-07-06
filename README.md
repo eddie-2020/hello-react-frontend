@@ -25,7 +25,11 @@ This project is made as part of Microverse program.
 
 ## Link to Hello Rails-back-end
 
+<<<<<<< HEAD
 You can view the back-end repository [here](https://github.com/oluyaratosin123/Hello-Rails-Back-End)
+=======
+You can view the back-end repository [here]()
+>>>>>>> 9010ad493d2460e2867ba3c5dc10ecf9ee52893b
 
 ## Getting Started
 
@@ -56,7 +60,6 @@ npm start
 Link to [localhost](http://localhost:3000/)
 
 ## Authors
-
 Edward Yara  
 - GitHub: [@oluyaratosin123](https://github.com/oluyaratosin123)
 - Twitter: [@TOluyara](https://twitter.com/TOluyara)
