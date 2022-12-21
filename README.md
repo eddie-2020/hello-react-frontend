@@ -23,14 +23,6 @@ This project is made as part of Microverse program.
 - TERMINAL
 - React/Redux
 
-## Link to Hello Rails-back-end
-
-<<<<<<< HEAD
-You can view the back-end repository [here](https://github.com/oluyaratosin123/Hello-Rails-Back-End)
-=======
-You can view the back-end repository [here]()
->>>>>>> 9010ad493d2460e2867ba3c5dc10ecf9ee52893b
-
 ## Getting Started
 
 Start by cloning the repository.
